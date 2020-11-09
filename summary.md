@@ -1,6 +1,24 @@
 # Summary
 2020년 전자공학부 SW 연계 부전공 장학금 신청을 위한 repository입니다.
 
+## 지금까지 들은 과목
+
+### 전공
+* ITEC201 컴퓨터학개론
+* COMP217 자바프로그래밍
+* COME331 자료구조
+* COMP312 운영체제
+* STAT452 수치해석
+* ITEC411 사물 컴퓨팅 이론 및 실습
+* ITEC412 SoC 설계 및 프로그래밍
+
+### SW교양
+* CLTR272 SOHO 비즈니스 프로그래밍
+* CLTR266 SW 사고기법
+* EECS201 C프로그래밍과 실습
+* COME301 이산수학
+
+
 ## 교과목형
 * [COMP311002 논리회로설계 / 2018년 2학기 / 최준림](https://github.com/VVONJAE/logical_circuit_design)
 * [ITEC411001 사물 컴퓨팅 이론 및 실습 /  2019년 2학기 / 강순주](https://github.com/VVONJAE/InternetOfThings)
