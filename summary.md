@@ -1,6 +1,6 @@
 # Summary
 2020년 전자공학부 SW 연계 부전공 장학금 신청을 위한 repository입니다.
-
+________________
 ### 지금까지 들은 과목
 
 #### 전공
@@ -17,7 +17,7 @@
 * CLTR266 SW 사고기법
 * EECS201 C프로그래밍과 실습
 * COME301 이산수학
-
+_______________
 
 ## 교과목형
 * [COMP311002 논리회로설계 / 2018년 2학기 / 최준림](https://github.com/VVONJAE/logical_circuit_design)
