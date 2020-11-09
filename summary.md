@@ -1,5 +1,5 @@
 # Summary
-2020년 전자공학부 SW 연계 부전공 장학금 신청을 위한 repository입니다.
+[2020년 전자공학부 SW 연계 부전공 장학금 신청](https://github.com/knuee/sw2020)을 위한 repository입니다.
 ________________
 ### 지금까지 들은 과목
 
